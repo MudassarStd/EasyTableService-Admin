@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774672542432",
+    "project_id": "restrauntcustomerservice",
+    "storage_bucket": "restrauntcustomerservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774672542432:android:4242519d7974d257903e85",
+        "android_client_info": {
+          "package_name": "com.android.foodorderingsystemadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDom_eczTp3DsfjOnA17IjTGeZvwU-uO4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774672542432:android:00d6b4dea65cdf0d903e85",
+        "android_client_info": {
+          "package_name": "com.android.foodorderingsystemcustomer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDom_eczTp3DsfjOnA17IjTGeZvwU-uO4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
